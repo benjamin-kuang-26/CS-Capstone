@@ -1,5 +1,14 @@
-
+.navbar {
+    color: lightblue
+}
+.navbar-brand {
+    color: blue;
+}
 
 .nav-item {
-    background-color: green;
+    background-color: pink;
+}
+
+.dropdown-menu {
+    background-color: pink
 }
