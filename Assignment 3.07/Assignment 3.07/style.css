@@ -1,0 +1,18 @@
+.navbar {
+    color: lightblue
+}
+.navbar-brand {
+    color: blue;
+}
+
+.nav-item {
+    background-color: rgb(151, 185, 197);
+}
+
+.dropdown-menu {
+    background-color: rgb(151, 185, 197)
+}
+.h1 {
+    font-family: 'Times New Roman', Times, serif;
+} 
+
